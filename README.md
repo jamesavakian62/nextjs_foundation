@@ -1,4 +1,4 @@
-# Next.js Fopundation
+# Next.js Foundation
 
 Project from my Next.js crash course on YouTube
 
