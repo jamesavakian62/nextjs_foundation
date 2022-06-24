@@ -1,4 +1,4 @@
-# Next.js Crash Course Project
+# Next.js Show Cases MarkDown Documents - Crash Course Project
 
 Project from my Next.js crash course on YouTube
 
